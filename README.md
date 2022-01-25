@@ -6,7 +6,7 @@ repo structure
 
 Click here for Project 1.
 
-.
+
 ├── README.md
 └── project-1
     ├── assets
